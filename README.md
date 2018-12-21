@@ -1,9 +1,6 @@
 # README
 
-[![Build Status](https://travis-ci.org/ArcaSolutions/google-map.svg?branch=master)](https://travis-ci.org/ArcaSolutions/google-map)
-[![Coverage Status](https://coveralls.io/repos/github/ArcaSolutions/google-map/badge.svg?branch=master)](https://coveralls.io/github/ArcaSolutions/google-map?branch=master)
-
-The Ivory Google Map project provides a Google Map integration for your PHP 5.3+ Project. It allows you to manage map,
+The Ivory Google Map project provides a Google Map integration for your PHP 5.6+ Project. It allows you to manage map,
 controls, overlays, events & services through the Google Map API v3.
 
 ## Documentation
