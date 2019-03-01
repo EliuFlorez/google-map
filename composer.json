@@ -12,7 +12,7 @@
     ],
 	"require": {
 		"php": ">=7.0",
-        "egeloen/json-builder": "^3.0"
+        "fsi/json-builder": "^3.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
